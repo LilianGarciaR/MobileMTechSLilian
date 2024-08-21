@@ -1,0 +1,7 @@
+{
+  "name": "lilianApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
